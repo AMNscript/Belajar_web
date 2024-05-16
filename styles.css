@@ -1,0 +1,21 @@
+
+.img2{
+  height: 200px;
+  width: 200px;
+}
+.img1{
+  height: 200px;
+  width: 200px;
+}
+.img3{
+  height: 200px;
+  width: 200px;
+}
+.carousel-inner{
+  padding-bottom: 60px;
+  padding-top: 70px;
+  background: #61a5db;
+}
+#c2, #c1{
+  font-size: 100px;
+}
